@@ -1,0 +1,17 @@
+.main{
+    width: 350px;
+    height: 200px;
+    position:absolute;
+    left:50%;
+    right:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(131, 131, 211);
+    border-radius: 15px;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+button{
+    margin-right: 20px;
+}
+
+
